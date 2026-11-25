@@ -1,0 +1,5 @@
+192.168.7.227/24
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=192.168.7.227;Port=5432;Database=reactivities;User Id=admin;Password=secret"
+}
